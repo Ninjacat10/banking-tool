@@ -1,0 +1,15 @@
+C:\Users\yashc\repos\banking-tool\bin\Debug\net8.0\BankingSystem.exe
+C:\Users\yashc\repos\banking-tool\bin\Debug\net8.0\BankingSystem.deps.json
+C:\Users\yashc\repos\banking-tool\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+C:\Users\yashc\repos\banking-tool\bin\Debug\net8.0\BankingSystem.dll
+C:\Users\yashc\repos\banking-tool\bin\Debug\net8.0\BankingSystem.pdb
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.sourcelink.json
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.dll
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\refint\BankingSystem.dll
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.pdb
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+C:\Users\yashc\repos\banking-tool\obj\Debug\net8.0\ref\BankingSystem.dll
